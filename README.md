@@ -113,14 +113,16 @@ All tests verify correct dominant emotion detection for classic cases.
 - For local development, portfolio showcase, or public GitHub demo, this project uses a keyword-based mock in emotion_detection.py.
 - To switch to real API mode (lab only): set export USE_MOCK=false and uncomment the real API call in the code.
 
-
 ## Screenshots
 
 ### Joy-dominant example
-<image-card alt="Joy example" src="screenshots/joy-example.png" ></image-card>
+
+[![Joy example](screenshots/screenshot-joy-example.png)](screenshots/screenshot-joy-example.png)
 
 ### Anger-dominant example
-<image-card alt="Anger example" src="screenshots/anger-example.png" ></image-card>
+
+[![Anger example](screenshots/screenshot-anger-example.png)](screenshots/screenshot-anger-example.png)
 
 ### Sadness / neutral example
-<image-card alt="Sadness example" src="screenshots/sadness-example.png" ></image-card>
+
+[![Sadness example](screenshots/screenshot-sadness-example.png)](screenshots/screenshot-sadness-example.png)
