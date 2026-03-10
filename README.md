@@ -7,7 +7,7 @@
 
 A web application that analyzes emotions in text (anger, disgust, fear, joy, sadness) and identifies the dominant emotion.
 
-This is the **final project** for the "Python and AI" course on Coursera / IBM Skills Network.
+This is the **final project** for the "[Developing AI Applications with Python and Flask](https://www.coursera.org/learn/python-project-for-ai-application-development/home/welcome)" course on Coursera / IBM Skills Network.
 
 **Example:**  
 Input: "I think I am having fun" → **joy** (high score)  
